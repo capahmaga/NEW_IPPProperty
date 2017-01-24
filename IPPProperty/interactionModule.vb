@@ -9,13 +9,6 @@
     Private _messageBoxMessage As String
 
 
-    'Mengapa Ada Berita Baru
-    'Public lookUpID As String
-    'Public lookUpName As String
-    'Public lookUpProjectID As String
-    'Public lookUpCategory As String
-    'Public lookUpUnitNo As String
-    'Public lookUpPersonalName As String
 
 
     Public Function getServerDate() As DateTime
