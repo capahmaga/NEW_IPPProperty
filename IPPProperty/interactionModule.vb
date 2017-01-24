@@ -7,6 +7,9 @@
     Public paramFormUpload As String
     Private _paramType As Integer
     Private _messageBoxMessage As String
+
+
+    'Mengapa Ada Berita Baru
     'Public lookUpID As String
     'Public lookUpName As String
     'Public lookUpProjectID As String
